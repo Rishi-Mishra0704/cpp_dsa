@@ -46,5 +46,5 @@ int main()
     int majority = moore_voting(arr, n);
     cout << " The majority element is : " << majority;
     return 0;
-    return 0;
+
 }
